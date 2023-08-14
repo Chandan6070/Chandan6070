@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chandan
 - 👀 I’m interested in coding
-- 📚 Technology Known Core Java and OOP's, Web Developer, Android Developer, Python, SQL, Power BI.  
+- 📚 Technology Known Big Data Technologies & Core Java and OOP's, Web Developer, Android Developer, Python, SQL, Power BI.  
 - 🌱 Working as Data Scientist at Futurense technologies.
 - 📫 How to reach me ..mail id: chandankumar6070@gmail.com
 
